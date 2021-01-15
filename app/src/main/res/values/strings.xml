@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SimonDice</string>
+    <string name="start">Start</string>
+    <string name="best_scores">Best Scores</string>
+    <string name="reinicioGame">Play Again</string>
+</resources>
